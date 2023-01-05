@@ -1,0 +1,68 @@
+{
+    "apps":[
+        {
+            "name":"edumerge",
+            "url":"https://app.edumerge.com/V2/newDashboard/dashboard/build/?pageId=50&pageGroupId=0#"
+        },
+        {
+            "name":"WhatsApp",
+            "url":"https://web.whatsapp.com/"
+        },
+        {
+            "name":"Chess",
+            "url":"https://www.chess.com/home"
+        },
+        {
+            "name":"Amazon",
+            "url":"https://www.amazon.in/"
+        },
+        {
+            "name":"Flipkart",
+            "url":"https://www.flipkart.com/"
+        },
+
+        {
+            "name":"Google docs",
+            "url":"https://docs.google.com/document/u/0/?tgif=d"
+        }
+    ],
+    "apps_tbo":[
+
+        {
+            "name":"Word",
+            "command":"winword"
+        },
+        {
+            "name":"PowerPoint",
+            "command":"powerpnt"
+        },
+        {
+            "name":"Excel",
+            "command":"excel"
+        },
+        {
+            "name":"Notepad",
+            "command":"notepad"
+        },
+        {
+            "name":"snipping tool",
+            "command":"snippingtool"
+        },
+        {
+            "name":"vs code",
+            "command":"code"
+        },
+        {
+            "name":"discord",
+            "command":"C:\\Users\\Admin\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe"
+        },
+        {
+            "name":"valorant",
+            "command":"C:\\Riot Games\\Riot Client\\RiotClientServices.exe"
+        },
+        {
+            "name":"spotify",
+            "command":"C:\\Users\\Admin\\AppData\\Roaming\\Spotify\\Spotify.exe"
+        }
+    ]
+}

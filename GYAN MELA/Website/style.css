@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap');
+
+body {
+    font-family: sans-serif;
+}
+
+.home{
+    text-align: center;
+    background-color: rgb(206, 205, 205);
+    padding: 20em;
+}
+
+span{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.home-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.home-bottom svg {
+    position: relative;
+    display: block;
+    width: calc(155% + 1.3px);
+    height: 128px;
+}
+
+.home-bottom .shape-fill {
+    fill: #FFFFFF;
+}
