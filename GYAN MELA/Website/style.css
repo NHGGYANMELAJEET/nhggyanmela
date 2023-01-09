@@ -37,3 +37,33 @@ span{
 .home-bottom .shape-fill {
     fill: #FFFFFF;
 }
+
+.project-main{
+    padding: 100px;
+}
+
+.custom-shape-divider-top-1672992195 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1672992195 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1672992195 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.project-main{
+    font-family: "Ubuntu";
+    font-size: 100px;
+    margin: 10px;
+}
